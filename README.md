@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @mpatwa98
+- 👋 Hi, I’m Mandeep Patwa
 - 👀 I’m interested in Competitive Programming and Web developement
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning React.js
+- 💞️ I’m looking to collaborate on react projects
+- 📫 How to reach me mpatwa98@gmail.com
 
 <!---
 mpatwa98/mpatwa98 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
