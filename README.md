@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Mandeep Patwa
 - 👀 I’m interested in Competitive Programming and Web developement
-- 🌱 I’m currently learning React.js
-- 💞️ I’m looking to collaborate on react projects
+- 🌱 I’m currently learning MERN stack and Next.js
+- 💞️ I’m looking to collaborate on Web Dev projects
 - 📫 How to reach me mpatwa98@gmail.com
 
 <!---
